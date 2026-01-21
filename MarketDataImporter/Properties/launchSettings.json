@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarketDataImporter": {
+      "commandName": "Project",
+      "commandLineArgs": "VTI"
+    }
+  }
+}
